@@ -503,3 +503,8 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.profile {
+  vertical-align: middle;
+  width: 140px;
+  border-radius: 50%; }
