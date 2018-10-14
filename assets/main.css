@@ -505,6 +505,8 @@ table {
     color: #099; }
 
 .profile {
+  overflow: hidden;
+  perspective: 1px;
   vertical-align: middle;
   width: 140px;
   border-radius: 50%; }
