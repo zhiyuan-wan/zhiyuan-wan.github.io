@@ -510,3 +510,6 @@ table {
   vertical-align: middle;
   width: 140px;
   border-radius: 50%; }
+
+.pull-right {
+  float: right; }
